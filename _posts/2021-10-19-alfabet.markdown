@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Alfabet, wymowa, informacje o języku"
+date:   2021-10-19 18:30:00 +0200
+categories: espanol
+---
+
+## Alfabet
+
+Tak nazywają się litery w hiszpańskim alfabecie:
+
+| Literka |   Nazwa   |                   Wymowa                    |
+| :-----: | :-------: | :-----------------------------------------: |
+|   A a   |     a     |                      a                      |
+|   B b   |    be     |                     be                      |
+|   C c   |    ce     |          se (jak angielskie "the")          |
+|   D d   |    de     |                     de                      |
+|   E e   |     e     |                      e                      |
+|   F f   |    efe    |                     efe                     |
+|   G g   |    ge     |                     he                      |
+|   H h   |   hache   |                    acie                     |
+|   I i   |     i     |                      i                      |
+|   J j   |   jota    |                    hota                     |
+|   K k   |    ka     |                     ka                      |
+|   L l   |    ele    |                     ele                     |
+|   M m   |    eme    |                     eme                     |
+|   N n   |    ene    |                     ene                     |
+|   Ñ ñ   |    eñe    |                    enie                     |
+|   O o   |     o     |                      o                      |
+|   P p   |    pe     |                     pe                      |
+|   Q q   |    cu     |                     ku                      |
+|   R r   |   erre    |                    erre                     |
+|   S s   |    ese    |                     ese                     |
+|   T t   |    te     |                     te                      |
+|   U u   |     u     |                      u                      |
+|   V v   |    uve    |                     uwe                     |
+|   W w   | uve doble | uwe doble (litera nieużywana w hiszpańskim) |
+|   X x   |   equis   |                    ekis                     |
+|   Y y   | i griega  |                  i griega                   |
+|   Z z   |   zeta    |        seta (jak angielskie "theta")        |
+
+## Wymowa
+
+# Połączenia liter, przy których trzeba uważać na wymowę:
+
+| Literki |          Wymowa           |
+| :-----: | :-----------------------: |
+|   rr    |   "toczące się" rrr...    |
+|   ch    |            ci             |
+|   ll    |             j             |
+|   ge    |            he             |
+|   gi    |            hi             |
+|   gue   |            ge             |
+|   gui   |            gi             |
+|   que   |            ke             |
+|   qui   |            ki             |
+|   ce    | se (jak angielskie "the") |
+|   ci    | si (jak angielskie "thi") |
+
+
+O "rr" w praktyce:
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/GrHqNg4KB0g" frameborder="0" allowfullscreen></iframe>
+
+# Przeliterowane/podyktowane słowa:
+
+| Słowo                                   | Tłumaczenie                                |
+| --------------------------------------- | ------------------------------------------ |
+| comida                                  | jedzenie                                   |
+| aceite                                  | olej                                       |
+| jamon                                   | szynka                                     |
+| queso                                   | ser                                        |
+| agua                                    | woda                                       |
+| mojito (ron, azúcar, agua, menta, lima) | mojito (rum, cukier, woda, mięta, limonka) |
+|                                         |                                            |
+| bañarse                                 | kąpać się                                  |
+| jugar a la pelota                       | grać w piłkę (ogólnie)                     |
+| tomar el sol                            | opalać się (dosłownie "brać słońce")       |
+| colchón                                 | materac                                    |
+| sombrilla                               | parasol (na słońce)                        |
+| pagar                                   | płacić                                     |
+
+## O hiszpańskim i jego użytkownikach w liczbach
+
+- Ponad 450 milionów ludzi mówi po hiszpańsku (21 krajów)
+- Hiszpański jest czwartym językiem na świecie pod względem ilości użytkowników i drugim językiem międzynarodowym (pierwszy jest angielski)
+- W 2030 roku 7.5% światowej populacji będzie hiszpańskojęzyczna (łącznie 535 milionów ludzi). Do tego czasu tylko Chińczycy wyprzedzą hiszpański jako grupę native speakerów.
+- W ciągu trzech lub czterech pokoleń 10% światowej populacji będzie się porozumiewać po hiszpańsku.
+- w 2050 roku Stany Zjednoczone będą największym krajem hiszpańskojęzycznym na świecie
+- Około 14 milionów ludzi uczy się hiszpańskiego jako dodatkowego języka
+- Hiszpański jest drugim językiem na Facebooku i Twitterze
