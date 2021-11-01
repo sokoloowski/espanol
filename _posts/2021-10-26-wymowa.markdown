@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Zasady wymowy"
+date: 2021-10-26 18:30:00 +0200
+categories: espanol
+---
+
+## Wymowa
+
+### Zadanie 5A
+
+| /k/ como **c**asa | /θ/ o /s/ como pi**z**arra |
+| :---------------: | :------------------------: |
+|    **co**mida     |          **ce**ro          |
+|   **c**olección   |        **Za**ragoza        |
+|   **c**amarero    |          **ci**ne          |
+|     **qui**lo     |       **ci**ncuenta        |
+|    **cu**enta     |         **ci**nco          |
+|    **ca**ntar     |          **zu**mo          |
+|      **qué**      |          **zo**o           |
+
+### Zadanie 5B
+
+| /x/ como **j**amón | /g/ como **g**ato |
+| :----------------: | :---------------: |
+|    **gi**mnasio    |    **gue**rra     |
+|     **ju**gar      |     **gu**sto     |
+|    **Ji**ménez     |      **ga**s      |
+|     **ja**món      |   bilin**güe**    |
+|      **je**fe      |      **go**l      |
+|    **ge**neral     |   **gui**tarra    |
+|     **jo**ven      |   pin**güi**no    |
+
+## Ciekawe słówka
+
+-   guasapear _/hłasapear/_ - wysyłać wiadomości na Whatsappie (hiszpanie na Whatsappa mówią _"hłasapp"_, a na Gmaila - _"hemajl"_)
+-   donas - pączek
+
+## Przedstawianie się
+
+### Zadanie 7A
+
+| Estudiante 1                               | Estudiante 2                                  | Estudiante 3                              |
+| ------------------------------------------ | --------------------------------------------- | ----------------------------------------- |
+| Nombre: **Paulo**                          | Nombre: **Katia**                             | Nombre: **Barbara**                       |
+| Apellido: **de Souza**                     | Apellido: **Vigny**                           | Apellido: **Meyerhofer**                  |
+| Nacionalidad: **brasileño**                | Nacionalidad: **francesca**                   | Nacionalidad: **alemana**                 |
+| Edad: **19**                               | Edad: **27**                                  | Edad: **24**                              |
+| Profesión: **estudiante**                  | Profesión: **camarera**                       | Profesión: **enfermera**                  |
+| Teléfono: **675312908**                    | Teléfono: **913490025**                       | Teléfono: **no tiene**                    |
+| Correo electrónico: **paulo102@gmail.com** | Correo electrónico: **katiavigny@hotmail.fr** | Correo electrónico: **barbara5@mail.com** |
+
+- `@` - arroba
+- `.` - punto
+
+### Zadanie 7B
+
+- la nacionalidad / el lugar de origen
+  - ¿De dónde eres?
+- el correo electrónico
+  - ¿Tienes correo electrónico?
+- el nombre
+  - ¿Cómo te llamas?
+  - ¿Cuál es tu nombre?
+- la profesión
+  - ¿A qué te dedicas?
+  - ¿En qué trabajas?
+- la edad
+  - ¿Cuántos años tienes?
+- el número de teléfono
+  - ¿Tienes móvil?
+  - ¿Cuál es tu número de teléfono?
