@@ -41,7 +41,7 @@ Tak nazywają się litery w hiszpańskim alfabecie:
 
 ## Wymowa
 
-# Połączenia liter, przy których trzeba uważać na wymowę:
+### Połączenia liter, przy których trzeba uważać na wymowę:
 
 | Literki |          Wymowa           |
 | :-----: | :-----------------------: |
@@ -60,9 +60,9 @@ Tak nazywają się litery w hiszpańskim alfabecie:
 
 O "rr" w praktyce:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/GrHqNg4KB0g" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/GrHqNg4KB0g" frameborder="0" allowfullscreen></iframe>
 
-# Przeliterowane/podyktowane słowa:
+### Przeliterowane/podyktowane słowa:
 
 | Słowo                                   | Tłumaczenie                                |
 | --------------------------------------- | ------------------------------------------ |
@@ -79,6 +79,18 @@ O "rr" w praktyce:
 | colchón                                 | materac                                    |
 | sombrilla                               | parasol (na słońce)                        |
 | pagar                                   | płacić                                     |
+
+## Gramatyka
+
+Gramatyka w języku hiszpańskim jest dość podobna do języka polskiego. Zdanie przeczące tworzy się przez dodanie słowa "no" na początku zdania twierdzącego, a pytanie wystarczy odpowiednio zaakcentować, jak w polskim:
+
+|| Español                   | Polski                   |
+|:-:| ------------------------- | ------------------------ |
+|:heavy_check_mark:| Tengo la camisa negra.    | Mam czarną koszulę.      |
+|:x:| No tegno la camisa negra. | Nie mam czarnej koszuli. |
+|:question:| ¿Tengo la camisa negra?   | Mam czarną koszulę?      |
+
+Przymiotnik występuje po rzeczowniku, który opisuje, więc w tłumaczeniu dosłownym byłaby "koszula czarna".
 
 ## O hiszpańskim i jego użytkownikach w liczbach
 
