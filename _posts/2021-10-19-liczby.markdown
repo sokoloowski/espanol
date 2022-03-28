@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Liczby"
+date:   2021-10-19 18:30:00 +0200
+categories: espanol
+---
+
+## Liczby
+
+| Liczba |     Nazwa     |
+| :----: | :-----------: |
+|   0    |     cero      |
+|   1    |      uno      |
+|   2    |      dós      |
+|   3    |     trés      |
+|   4    |    cuatro     |
+|   5    |     cinco     |
+|   6    |     séis      |
+|   7    |     siete     |
+|   8    |     ocho      |
+|   9    |     nueve     |
+|   10   |     diez      |
+|   11   |     once      |
+|   12   |     doce      |
+|   13   |     trece     |
+|   14   |    catorce    |
+|   15   |    quince     |
+|   16   |   dieciséis   |
+|   17   |  diecisiete   |
+|   18   |   dieciocho   |
+|   19   |  diecinueve   |
+|   20   |    veinte     |
+|   21   |    veinti     |
+|   22   |   veintidós   |
+|   23   |  veintitrés   |
+|  ...   |      ...      |
+|   29   |  veintinueve  |
+|   30   |    treinta    |
+|   31   | treinta y uno |
+|   32   | treinta y dós |
+|  ...   |      ...      |
+|   40   |   cuarenta    |
+|   50   |   cincuenta   |
+|   60   |    sesenta    |
+|   70   |    setenta    |
+|   80   |    ochenta    |
+|   90   |    noventa    |
+|  100   |     cien      |
