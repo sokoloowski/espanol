@@ -7,6 +7,19 @@ categories: espanol
 
 ## Wymowa
 
+### Zasady ogólne
+
+| Pisownia | Wymowa |
+| :------: | :----: |
+|    h     | *brak* |
+|    j     |   h    |
+|    ñ     |   ń    |
+|    c     |  k/θ   |
+|    z     |   s    |
+| qui/que  | ki/ke  |
+| gui/gue  | gi/ge  |
+
+
 ### Zadanie 5A
 
 | /k/ como **c**asa | /θ/ o /s/ como pi**z**arra |
@@ -34,7 +47,7 @@ categories: espanol
 ## Ciekawe słówka
 
 -   guasapear _/hłasapear/_ - wysyłać wiadomości na Whatsappie (hiszpanie na Whatsappa mówią _"hłasapp"_, a na Gmaila - _"hemajl"_)
--   donas - pączek
+-   donas - pączek (od *donut*)
 
 ## Przedstawianie się
 
