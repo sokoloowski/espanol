@@ -14,7 +14,7 @@ categories: espanol
 |        h         | *brak* |          **h**asta la vista */asta la vista/*          |
 | j (czasem też g) |   h    | **j**ugar */**h**ugar/*, **g**imnasio */**h**imnasio/* |
 |        ñ         |  ń/ni  |              espa**ñ**ol */espa**ni**ol/*              |
-|        c         |  k/θ   |   **c**omida */**k**omida/*, **c**inco */**θ**inco/*   |
+|        c         |  k/(θ lub s)   |   **c**omida */**k**omida/*, **c**inco */**θ**inko/ lub /**s**inko/*   |
 |        z         |   s    |                 a**z**úcar */asukar/*                  |
 |     qui/que      | ki/ke  |                   **qué** */**ke**/*                   |
 |     gui/gue      | gi/ge  |                guitarra */**gi**tarra/*                |
