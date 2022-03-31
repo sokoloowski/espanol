@@ -5,8 +5,6 @@ date: 2022-03-31 15:00:00 +0200
 categories: espanol
 ---
 
-## Me gusta
-
 ### 62/4C
 
 | A mí                  | me  |
