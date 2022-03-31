@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Me gusta..."
+date: 2022-03-31 15:00:00 +0200
+categories: espanol
+---
+
+## Me gusta
+
+### 62/4C
+
+| A mí                  | me  |
+| --------------------- | --- |
+| A ti                  | te  |
+| A él/ella/usted       | le  |
+| A nosotros/nosotras   | nos |
+| A vosotros/vosotras   | os  |
+| A ellos/ellas/ustedes | les |
+
+### 63/5A
+
+| Español              | Polski           |
+| -------------------- | ---------------- |
+| me encanta(n)        | uwielbiam        |
+| me gusta(n) mucho    | bardzo lubię     |
+| me gusta(n) bastante | całkiem lubię    |
+| no me gusta(n) mucho | nie bardzo lubię |
+| no me gusta(n) nada  | nie lubię        |
+
+### 63/6A
+
+| Español      | Polski     |
+| ------------ | ---------- |
+| A mí también | Mi też     |
+| A mí tampoco | Mi też nie |
+| A mí sí      | Mi tak     |
+| A mí no      | Mi nie     |
+
+### 145/5
+
+1. 
+2. 
+3. los perros
+4. bailar
+5. la música electronica
+6. esta escuela
+
+### 146/8
+
+1. A Hugo le gusta mucho la música brasileña.
+   - A mí tambien.
+   - A mí no.
+   - A mí tampoco.
+2. A Hugo le gusta mucho la música brasileña.
+   - A mí no.
+   - A mí si.
+   - A mí tambien.
+3. A Hugo le gusta mucho la música brasileña.
+   - A mí tampoco.
+   - A mí sí.
+   - A mí tambien.
+4. A Hugo le gusta mucho la música brasileña.
+   - A mí sí.
+   - A mí no.
+   - A mí tampoco.
+
+### 146/7
+
+1. Le gusta ir a la playa invierno.  
+   A mí no.
+2. Le gusta tener siempre flores en casa.  
+   A mí tambien.
+3. Le encanta escuchar música clásica.  
+   A mí tambien.
+4. Le encanta estar descalza en casa.  
+   A mí tambien.
+5. Le gusta hablar con los animales.  
+   A mí tambien.
+6. Le gusta usar colonia de hombre.  
+   A mí tambien.
+7. Le gusta ver la televisión sin volumen.  
+   A mí no.
