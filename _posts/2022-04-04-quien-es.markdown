@@ -1,0 +1,56 @@
+---
+layout: post
+title: "¿Quién es? Contactos"
+date: 2022-03-04 18:30:00 +0200
+categories: espanol
+---
+
+### 60/2A
+
+- Lugar de nacimiento (Miejsce urodzenia): Granada
+- Año de nacimiento (Rok urodzenia): 1980 
+- Segundo apellido (Nazwisko): Carbonell
+- Nombre de su madre (Imię matki): Aurora
+- Hermanos (Rodzeństwo): 2 (Enrique y Soleá)
+- Profesión (Zawód): cantane
+- Título de su primer disco (Nazwa pierwszej): Mi cante y un poema
+- Color favorito: el blanco
+- Deporte favorito: el esquí
+- Ciudad preferida: Granada
+- Escritores favoritos: Federico García Lorca y José Bergamín
+- Comida favorita: las naranjas
+
+### 60/2C
+
+- Color: el azul
+- Comida: panqueques/creps
+- Deporte: ciclismo
+- Ciudad: Umago
+- Escritor o tipo de literatura: histórica
+
+### 61/3A
+
+1. Amaya
+2. María
+3. Isabel
+
+### 61/3B
+
+1. María
+2. Amaya
+3. Isabel
+
+### 61/3C
+|                                        |       Isabel       |       María        |       Amaya        |
+| -------------------------------------- | :----------------: | :----------------: | :----------------: |
+| Soy muy aventurera                     |                    | :heavy_check_mark: |                    |
+| Soy muy divertida y habladora          | :heavy_check_mark: |                    |                    |
+| Soy alta                               |                    |                    | :heavy_check_mark: |
+| Soy una chica normal, morena y bajita  | :heavy_check_mark: |                    |                    |
+| Al principio soy un poco tímida        | :heavy_check_mark: |                    |                    |
+| Soy una chica agradable y muy sociable |                    |                    | :heavy_check_mark: |
+| Soy bastante activa                    |                    | :heavy_check_mark: |                    |
+
+### Zadanie
+
+Opisać się, tak jak w zadaniu 61/3A
