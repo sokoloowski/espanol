@@ -13,7 +13,7 @@ categories: espanol
 - Nombre de su madre (Imię matki): Aurora
 - Hermanos (Rodzeństwo): 2 (Enrique y Soleá)
 - Profesión (Zawód): cantane
-- Título de su primer disco (Nazwa pierwszej): Mi cante y un poema
+- Título de su primer disco (Tytuł pierwszej płyty): Mi cante y un poema
 - Color favorito (Ulubiony kolor): el blanco
 - Deporte favorito (Ulubiony sport): el esquí
 - Ciudad preferida (Ulubione miasto): Granada
