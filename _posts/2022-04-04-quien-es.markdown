@@ -14,11 +14,11 @@ categories: espanol
 - Hermanos (Rodzeństwo): 2 (Enrique y Soleá)
 - Profesión (Zawód): cantane
 - Título de su primer disco (Nazwa pierwszej): Mi cante y un poema
-- Color favorito: el blanco
-- Deporte favorito: el esquí
-- Ciudad preferida: Granada
-- Escritores favoritos: Federico García Lorca y José Bergamín
-- Comida favorita: las naranjas
+- Color favorito (Ulubiony kolor): el blanco
+- Deporte favorito (Ulubiony sport): el esquí
+- Ciudad preferida (Ulubione miasto): Granada
+- Escritores favoritos (Ulubieni pisarze): Federico García Lorca y José Bergamín
+- Comida favorita (Ulubione jedzenie): las naranjas
 
 ### 60/2C
 
