@@ -4,5 +4,6 @@ description: >-
   Notatki z lektoratu z hiszpańskiego
 baseurl: "/"
 url: "https://espanol.sokoloowski.pl"
+lang: "es"
 
 theme: minima
