@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Día a día"
+date: 2022-04-28 15:00:00 +0200
+categories: espanol
+---
+
+## Dni tygodnia
+
+|    Polski    |     Español      |      Pochodzenie      |
+| :----------: | :--------------: | :-------------------: |
+|   tydzień    |      semana      |                       |
+| poniedziałek |      lunes       |        Księżyc        |
+|    wtorek    |      martes      |         Mars          |
+|    środa     |    miércoles     |        Merkury        |
+|   czwartek   |      jueves      |        Jowisz         |
+|    piątek    |     viernes      |         Wenus         |
+|    sobota    |      sábado      |        Szabat         |
+|  niedziela   |     domingo      | Dzień święty (z łac.) |
+|   weekend    | el fin de semana |                       |
