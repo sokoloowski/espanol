@@ -51,11 +51,11 @@ Hay un chico (podmiot nieokreślony, zdanie nie ma podmiotu, dopełnienie bliżs
 
 ## Verbos irregulares
 
-|             |  ser  |  estar  |  dar  |  ir   |
-| :---------: | :---: | :-----: | :---: | :---: |
-|     yo      |  soy  |  estoy  |  doy  |  voy  |
-|     tu      | eres  |  estás  |  das  |  vas  |
-|   él/ella   |  es   |  está   |  da   |  va   |
-| nosotros/as | somos | estamos | damos | vamos |
-| vosotros/as | sois  | estáis  | dais  | vais  |
-|  ellos/as   |  son  |  están  |  dan  |  van  |
+|             |  ser  |  estar  |  dar  |  ir   |  salir  |  poner  |  hacer  |  tener  |
+| :---------: | :---: | :-----: | :---: | :---: | :-----: | :-----: | :-----: | :-----: |
+|     yo      |  soy  |  estoy  |  doy  |  voy  |  salgo  |  pongo  |  hago   |  tengo  |
+|     tu      | eres  |  estás  |  das  |  vas  |  sales  |  pones  |  haces  | tienes  |
+|   él/ella   |  es   |  está   |  da   |  va   |  sale   |  pone   |  hace   |  tiene  |
+| nosotros/as | somos | estamos | damos | vamos | salimos | ponemos | hacemos | tenemos |
+| vosotros/as | sois  | estáis  | dais  | vais  |  salís  | ponéis  | hacéis  | tenéis  |
+|  ellos/as   |  son  |  están  |  dan  |  van  |  salen  |  ponen  |  hacen  | tienen  |
