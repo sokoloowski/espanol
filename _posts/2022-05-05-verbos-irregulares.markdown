@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verbos irregulares"
-date: 2022-04-28 15:00:00 +0200
+date: 2022-05-05 15:00:00 +0200
 categories: espanol
 ---
 
