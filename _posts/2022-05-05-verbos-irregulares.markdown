@@ -5,8 +5,7 @@ date: 2022-05-05 15:00:00 +0200
 categories: espanol
 ---
 
-Nie rozumiem - No entiendo
-
+Nie rozumiem - No entiendo  
 ¿Cuántos años tiene? = ¿Qué edad tiene?  
 100 años = 1 siglo  
 Estamos en el siglo XXI  
