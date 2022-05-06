@@ -9,7 +9,7 @@ Nie rozumiem - No entiendo
 ¿Cuántos años tiene? = ¿Qué edad tiene?  
 100 años = 1 siglo  
 Estamos en el siglo XXI  
-la Edad de Hierro  - epoka żelaza  
+la Edad de Hierro - epoka żelaza  
 la Edad de Bronce - epoka brązu  
 ¿Qué día es? - Który dziś jest? (dzień tygodnia)  
 ¿A cuántos estamos? - Który dziś jest? (data)  
