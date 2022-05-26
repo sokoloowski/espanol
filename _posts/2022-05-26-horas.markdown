@@ -1,0 +1,42 @@
+---
+layout: post
+title: "¿Qué hora es? - Która godzina?"
+date: 2022-05-16 18:30:00 +0200
+categories: espanol
+---
+
+## Pytania o czas
+
+- ¿Qué hora es?
+- ¿Tienes/Tiene hora?
+- ¿Qué hora tienes/tiene?
+- Me dice, ...
+- Perdona, ... (nieformalny)
+- Perdone, ... (formalny)
+
+Jeśli czasownik nieformalny kończy się na -e, to formalny kończy się na -a.  
+Jeśli czasownik nieformalny kończy się na -a, to formalny kończy się na -e.
+
+> \- ¿A qué hora?  
+> \- A las dos y media...
+
+## "Ja też (nie)"
+
+> \- Yo hago deporte, ¿y tú?  
+> \- Yo también. / Yo no.
+
+> \- Yo no hago deporte, ¿y tú?  
+> \- Yo tampoco. / Yo sí.
+
+## Zaimki osobowe
+
+| podmiot  | dopełnienie<br>bliższe | zaimek<br>zwrotny | dopełnienie<br>dalsze  |
+| :------: | :--------------------: | :---------------: | :--------------------: |
+|    yo    |           me           |        me         |    me (gusta a mi)     |
+|    tú    |           te           |        te         |    te (gusta a ti)     |
+|    él    |           lo           |        se         |    le (gusta a el)     |
+|   ella   |           la           |        se         |   le (gusta a ella)    |
+| nosotros |          nos           |        nos        | nos (gusta a nosotros) |
+| vosotros |           os           |        os         | os (gusta a vosotros)  |
+|  ellos   |          los           |        se         |  les (gusta a ellos)   |
+|  ellas   |          las           |        se         |  les (gusta a ellas)   |
