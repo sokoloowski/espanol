@@ -1,0 +1,96 @@
+---
+layout: post
+title: "¡A comer!"
+date: 2022-06-02 15:00:00 +0200
+categories: espanol
+---
+
+## Słówka
+
+incluso (incluír) / hasta - nawet
+esparragos - szparagi  
+espinacas - szpinak  
+pepinos - ogórki  
+ajo - czosnek  
+calabocín  
+calabaza  
+sopa de remolacha  
+lomo a la plancha - polédwica z rusztu  
+a la plancha - z rusztu  
+plancha - ruszt / żelazko  
+pimiento - papryka  
+pimienta - pieprz  
+las especias - przyprawy
+las especies - gatunki (roślin, zwierząt, dań...)  
+el frío - przeziębienie  
+resfriado
+
+## 85/3
+
+|            |       Ella        |    Él     |
+| :--------: | :---------------: | :-------: |
+|  primero   |  sopa de pescado  | ensalada  |
+|  segondo   | lomo a la plancha | calamares |
+|   postre   |       flan        |   melón   |
+| para beber |    vino tinto     |   agua    |
+
+- Arroz con leche (ryż z mlekiem) - primero
+- Paella - segundo
+- Merluza a la romana (morszczuk po rzymsku) - segundo
+- Gazpacho - primero
+- Canelones - segundo
+- Bistec con patatas (stek z ziemniakami) - segundo
+- Helado (lody) - postre
+- Lentejas (soczewica) - postre
+- Sardinas a la plancha (sardynki z rusztu) - segundo
+- Verdura con patatas (warzywa z ziemniakami) - segundo
+- Tortilla de patata (placek ziemniaczany) - segondo
+- Arroz a la cubana (ryż po kubańsku) - segondo
+- Huevos fritos con patatas (jajka sadzone z ziemniakami) - segondo
+- Fruta (owoc) - postre
+
+## 86/4
+
+Tiene que pagar en efectivo - Musi pan/i zapłacić gotówk  
+¿Puedo pagar con tarjeta? - Mogę zapłacić kartą?
+
+mucho leche poco café - biała kawa  
+poco leche mucho café - czarna kawa
+
+W języku polskim, prosząc kogoś o coś, używamy trybu rozkazującego albo pytamy:
+
+> Otwórz okno.  
+> Otworzysz okno?
+
+W języku hiszpańskim natomiast się pytamy, jakby czynność była w trakcie wykonywania:
+
+> ¿Abres la ventana?
+> *Otwierasz okno?*
+
+1. CLI: Hola. ¿me pone un café, por favor?  
+    CAM: Sí claro, ahora mismo.  
+    CAM: ¿Le pongo algo más?  
+    CLI: Sí, una botella de agua, por favor.  
+    CLI: ¿Cuánto es?  
+    CAM: Tres con treinta.  
+2. CAM: ¿Qué desea?  
+    CLI: ¿Tienen gazpacho?  
+    CAM: No, lo siento, solo en verano. Hoy tenemos ensalada mixta, sopa y lentejas.  
+    CLI: ¿La sopa de qué es?  
+    CAM: De pollo. Lleva verduras, fideos y pollo.  
+    CLI: Vale, pues de primero quiero ensalada.  
+    CAM: ¿Y de segundo, qué desea?  
+    CLI: De segundo, merluza.  
+    CAM: ¿Para beber?  
+    CLI: Un agua con gas.  
+    CAM: Ahora mismo le traigo el agua.  
+    CLI: Vale, gracias. Y, perdone, ¿me trae un poco de pan también?  
+    CAM: Claro, enseguida.  
+    CLI: Gracias.  
+    CLI: Perdone, ¿me trae la cuenta. por favor?  
+    CAM: Sí, ahora mismo.
+
+- traer - traigo
+- poner - pongo
+
+
